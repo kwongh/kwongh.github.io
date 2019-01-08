@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+
+hello world
+기현의 블로그
