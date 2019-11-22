@@ -5,14 +5,13 @@
 # highlighter: rouge
 # gist:
   # noscript: false
-# kramdown:
+ # kramdown:
   # math_engine: mathjax
   # syntax_highlighter: rouge
 
-# title: kwongh.dev-blog
+#title: kwongh.dev-blog
 email: kkh518@hotmail.com
 github_username:  kwongh
-
 
 # Build settings
 theme: minima
