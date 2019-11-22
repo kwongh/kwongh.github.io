@@ -11,3 +11,6 @@ kramdown:
   
 theme: jekyll-theme-slate
 permalink: /404.html
+
+plugins:
+  - jekyll-default-layout
