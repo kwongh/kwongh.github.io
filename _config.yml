@@ -1,17 +1,21 @@
-lsi: false
-safe: true
-source: .
-incremental: false
-highlighter: rouge
-gist:
-  noscript: false
-kramdown:
-  math_engine: mathjax
-  syntax_highlighter: rouge
-  
+# lsi: false
+# safe: true
+
+# incremental: false
+# highlighter: rouge
+# gist:
+  # noscript: false
+# kramdown:
+  # math_engine: mathjax
+  # syntax_highlighter: rouge
+
+title: kwongh.dev-blog
+email: kkh518@hotmail.com
+github_username:  kwongh
+
+
+# Build settings
 theme: minima
 permalink: pretty
-
-plugins:
-  - jekyll-feed
-  - jekyll-default-layout  
+# plugins:
+#  - jekyll-default-layout  
