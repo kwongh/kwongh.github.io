@@ -9,9 +9,8 @@ kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
   
-
 theme: minima
-permalink: /404.html
+permalink: pretty
 
 plugins:
   - jekyll-feed
