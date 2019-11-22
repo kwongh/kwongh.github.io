@@ -9,7 +9,7 @@
   # math_engine: mathjax
   # syntax_highlighter: rouge
 
-title: kwongh.dev-blog
+# title: kwongh.dev-blog
 email: kkh518@hotmail.com
 github_username:  kwongh
 
@@ -18,4 +18,4 @@ github_username:  kwongh
 theme: minima
 permalink: pretty
 # plugins:
-#  - jekyll-default-layout  
+  # - jekyll-default-layout  
